@@ -44,4 +44,3 @@ let one = default(1)
 // How it is now
 let one = `default`(1)
 ```
-* 
